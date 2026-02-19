@@ -45,6 +45,16 @@ cd showcase-nuxt-003
 npm install
 ```
 
+### env
+
+```
+NODE_ENV=development
+LOG_LEVEL=warn
+CACHE_DRIVER=redis
+TURSO_DATABASE_URL=libsql://test.turso.io
+TURSO_AUTH_TOKEN=eyJhbGciOiJIUzI1NiI
+```
+
 ### Development
 
 Start the development server:
