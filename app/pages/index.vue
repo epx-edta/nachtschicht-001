@@ -17,7 +17,7 @@ useHead({
     <!-- Hero Section -->
     <div class="text-center">
       <p class="text-xl text-gray-600 dark:text-gray-400 max-w-2xl mx-auto">
-        This site is a collection of examples demonstrating modern Nuxt 4 features, best practices, and UI patterns.
+        This site is a collection of examples demonstrating modern Nuxt 4 features, best practices, and UI patterns. Updated version 001.
       </p>
     </div>
 
